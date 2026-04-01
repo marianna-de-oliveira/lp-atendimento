@@ -9,80 +9,80 @@ Usuários enfrentam dificuldades para encontrar suporte técnico ágil e informa
 ## Solução
 Desenvolvimento de uma landing page que centraliza informações, facilita o acesso ao suporte e oferece orientação clara para resolução de problemas, priorizando a experiência do usuário.
 
-┌──────────────────────────────────────────────┐
-│ LOGO            Menu            [Suporte]     │
-│               Início Planos FAQ Contato      │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐ <br>
+│ LOGO            Menu            [Suporte]     │ <br>
+│               Início Planos FAQ Contato      │ <br>
+└──────────────────────────────────────────────┘ <br>
 
 
-┌──────────────────────────────────────────────┐
-│                                              │
-│   Internet de qualidade com suporte técnico  │
-│                                              │
-│   Conexão rápida e soluções simples          │
-│                                              │
-│   [Ver Planos]     [Preciso de suporte]      │
-│                                              │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐ <br>
+│                                              │ <br>
+│   Internet de qualidade com suporte técnico  │ <br>
+│                                              │ <br>
+│   Conexão rápida e soluções simples          │ <br>
+│                                              │ <br>
+│   [Ver Planos]     [Preciso de suporte]      │ <br>
+│                                              │ <br>
+└──────────────────────────────────────────────┘ <br>
 
 
-┌──────────────────────────────────────────────┐
-│                Nossos Serviços               │
-│                                              │
-│  [Internet]   [Suporte]   [Portabilidade]    │
-│                                              │
-│  Alta         Atendimento  Migração fácil    │
-│  velocidade   rápido                          │
-│                                              │
-│              [Agendamento Técnico]           │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐ <br>
+│                Nossos Serviços               │ <br>
+│                                              │ <br>
+│  [Internet]   [Suporte]   [Portabilidade]    │ <br>
+│                                              │ <br>
+│  Alta         Atendimento  Migração fácil    │ <br> 
+│  velocidade   rápido                          │ <br>
+│                                              │ <br> 
+│              [Agendamento Técnico]           │ <br>
+└──────────────────────────────────────────────┘ <br>
 
 
-┌──────────────────────────────────────────────┐
-│          Precisa de ajuda? Resolva agora     │
-│                                              │
-│ [Internet lenta]  [Sem conexão]              │
-│                                              │
-│ [Problemas]       [2ª via de conta]          │
-│                                              │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐<br>
+│          Precisa de ajuda? Resolva agora     │ <br>
+│                                              │ <br>
+│ [Internet lenta]  [Sem conexão]              │ <br> 
+│                                              │<br>
+│ [Problemas]       [2ª via de conta]          │ <br>
+│                                              │<br>
+└──────────────────────────────────────────────┘<br>
 
 
-┌──────────────────────────────────────────────┐
-│          Suporte simples e eficiente         │
-│                                              │
-│  1. Contato → 2. Diagnóstico →               │
-│  3. Solução → 4. Técnico (se necessário)     │
-│                                              │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐<br>
+│          Suporte simples e eficiente         │ <br>
+│                                              │ <br>
+│  1. Contato → 2. Diagnóstico →               │ <br>
+│  3. Solução → 4. Técnico (se necessário)     │ <br>
+│                                              │ <br>
+└──────────────────────────────────────────────┘ <br>
 
 
-┌──────────────────────────────────────────────┐
-│               Dúvidas Frequentes             │
-│                                              │
-│ [+] Internet lenta, o que fazer?             │
-│ [+] Como falar com suporte?                  │
-│ [+] Como agendar visita técnica?             │
-│                                              │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐<br>
+│               Dúvidas Frequentes             │ <br>
+│                                              │ <br>
+│ [+] Internet lenta, o que fazer?             │ <br>
+│ [+] Como falar com suporte?                  │ <br>
+│ [+] Como agendar visita técnica?             │ <br> 
+│                                              │<br> 
+└──────────────────────────────────────────────┘<br>
 
 
-┌──────────────────────────────────────────────┐
-│                 Fale com a gente             │
-│                                              │
-│  Nome:     [___________]                     │
-│  Email:    [___________]                     │
-│  Mensagem: [___________]                     │
-│                                              │
-│             [Enviar mensagem]                │
-│                                              │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐<br>
+│                 Fale com a gente             │ <br>
+│                                              │ <br> 
+│  Nome:     [___________]                     │<br>
+│  Email:    [___________]                     │ <br> 
+│  Mensagem: [___________]                     │<br> 
+│                                              │<br>
+│             [Enviar mensagem]                │ <br>
+│                                              │ <br>
+└──────────────────────────────────────────────┘ <br>
 
 
-┌──────────────────────────────────────────────┐
-│ LOGO                                         │
-│ Links | Contato | Redes sociais               │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐ <br>
+│ LOGO                                         │ <br>
+│ Links | Contato | Redes sociais               │ <br>
+└──────────────────────────────────────────────┘ <br>
 
 
             [Botão flutuante]
